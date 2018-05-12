@@ -1,0 +1,36 @@
+_repo: Old-Scores-and-New-Readings--Discussions-on-Music--amp--Certain-Musicians_15369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runciman, John F.
+    birthdate: 1866
+    deathdate: 1916
+    gutenberg_agent_id: '5093'
+    url: http://www.gutenberg.org/2009/agents/5093
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2005-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music'
+- !lcsh 'Musicians'
+- !lcc 'ML'
+- !lcsh 'Opera'
+tableOfContents: William Byrde ... his mass -- Our last great musician (Henry Purcell,
+  1658-95) -- Bach; the "Matthew" passion and the "John" -- Handel -- Haydn and his
+  "Creation" -- Mozart, his "Don Giovanni" and the Requiem -- "Fidelio" -- Schubert
+  -- Weber and Wagner -- Italian opera, dead and dying -- Verdi young and Verdi younger
+  -- "The flying Dutchman" -- "Lohengrin" -- "Tristan and Isolda" -- "Siegfried" --
+  "The dusk of the gods" -- "Parsifal" -- Bayreuth in 1897 -- A note on Brahms --
+  Anton Dvorák -- Tschaikowsky and his "Pathetic" symphony -- Lamoureux and his orchestra.
+title: 'Old Scores and New Readings: Discussions on Music & Certain Musicians'
+url: http://www.gutenberg.org/ebooks/15369
